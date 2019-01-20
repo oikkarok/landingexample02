@@ -1,0 +1,118 @@
+.ggg {
+    /*    border: 1px solid blue;*/
+    margin-top : 12% ;
+    margin-left: 5% ;
+    margin-right: 2% ;
+    float: left;
+    width: 35%;
+
+}
+
+.tes {
+    color: white;
+    padding: 5%;
+}
+
+.pad {
+    background-color: white;
+    /*    border: 1px solid red;*/
+    padding: 5%;
+    height: 100%;
+}
+
+.pad > p {
+    padding-right: 8% ;
+    padding-left: 8%;
+}
+
+#but {
+    position: relative;
+    right: 0;
+    left: 25%;
+    top: 2rem !important;
+}
+
+#but2 {
+    position: relative;
+    right: 0;
+    left: 25%;
+    top: 6rem !important;
+}
+
+.boh {
+    /*    border: 1px solid green;*/
+    float: right;  
+    width: 50%;
+    height: 30rem;
+}
+
+#deh {
+    text-align: justify;
+    font-weight: bolder;
+    font-size: 5rem;
+}
+
+.tit {
+    text-align: center;
+    font-weight: bold;
+}
+
+.rex {
+    float: left;
+    width: 50%;
+    /*    border: 1px solid yellow;*/
+    margin-top: 10%;
+    margin-right: 2%;
+    height: 30rem;
+}
+
+.fin {
+    margin-top: 50%;
+    text-align: center;
+}
+
+input[type=email] {
+    border: none;
+    border-bottom: 1.7px solid black;
+    width: 100%;
+}
+
+#search {
+    border: none;
+    border-bottom: 1.7px solid black;
+    width: 100%;
+}
+
+#xx {
+    font-size: 10px;
+    color: grey; 
+    padding-top: 5%;
+    width: 80%; 
+    float: right;
+}
+
+.container {
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
+
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+#content {
+    position: absolute;
+    top: 0;
+}
+
+#bg-textB {
+    /*    border: 1px solid red;*/
+    color: grey;
+    /*    height: 100%;*/
+    font-size: 14em;
+}

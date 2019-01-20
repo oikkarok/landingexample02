@@ -1,0 +1,32 @@
+@media only screen and (min-device-width : 320px) and (max-device-width : 590px) {
+    body {
+        background: #999;
+        width: 100%;
+    }
+}
+
+input[type=email] {
+    border: none;
+    border-bottom: 1.7px solid black;
+    width: 100%;
+}
+
+.mob {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+#search {
+    border: none;
+    border-bottom: 1.7px solid black;
+    width: 100%;
+}
+
+#bg-textB {
+    color: whitesmoke;
+    font-size: 4rem;
+    font-weight: bolder;
+    padding: 3%;
+}
